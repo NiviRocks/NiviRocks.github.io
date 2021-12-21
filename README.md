@@ -19,10 +19,10 @@ LinkedIn account not active yet!
 #### 🎗Batch:-2020-2024
 Currently in 2nd year 
 ## B.Sc. In Data Science and Programming (Duel Degree)
-![iit-Madras-logo](https://user-images.githubusercontent.com/96379756/146983450-8806e045-78a3-433c-b0d9-6eb9abc2643c.png)
+<img alt="iitm-logo" src="https://user-images.githubusercontent.com/96379756/146984436-13ba2603-6b8b-4c37-9659-c7b9857fa8ae.png">
 #### 🎗Currently enrolled in Foundation Level in B.Sc. In Data Science and Programming from IIT Madras.
 ## Schooling
-![kvs](https://user-images.githubusercontent.com/96379756/146983457-576dfcc0-c3b3-47b8-903f-20f445ca1ccf.jpg)
+<img alt="kvs logo" src="https://user-images.githubusercontent.com/96379756/146983457-576dfcc0-c3b3-47b8-903f-20f445ca1ccf.jpg">
 #### 🎗Completed 10+2 level from Kendriya Vidyalaya No.1 Saltlake, Kolkata
 #### 🎗Scored 94.6 % in 12th boards.
 
