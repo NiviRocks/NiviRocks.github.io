@@ -35,7 +35,7 @@ Currently in 2nd year
   ####  1. Harry Potter Series by J.K.Rowling 🧙‍♂️
   ####  2. Sherlock Holmes by Athur Conan Doyle 🤠  
   ####  3. Famous Five by Enid Blyton 🚲
-  ####  4. Its a Sin to Kill a Mocking Bird by 🕊
+  ####  4. To Kill a Mocking Bird by Harper Lee 🕊
   ####  5. 101 Short Stories by O'Henry ⭐
   and more...
 
