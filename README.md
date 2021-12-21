@@ -48,6 +48,8 @@ Currently in 2nd year
 #### 🎯 OOP Python [ongoing]
 #### 🎯 Introduction to R programing [yet to recieve certificate]
 #### 🎯 Introduction to Machine Learning [Yet to start]
+#### 🎯 CODECHEF Certificates
+[Snack Down 21 Participation Certificate](https://github.com/NiviRocks/NiviRocks.github.io/files/7757697/SNACKDOWN.21.Participation.Certificate.pdf)
 
 
 
