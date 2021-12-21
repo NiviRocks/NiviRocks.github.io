@@ -1,5 +1,5 @@
 #      RESUME 
-Aspiring Data Scientist 📈| Pursuing B.Tech. Computer Science Engineering 💻|Learning ML 📌| Novel Lover 📚| Animal Lover 🐶 
+Aspiring Data Scientist 📈| Pursuing B.Tech. Computer Science Engineering 💻|Enrolled in Foundation Level of IITM Online Degree 🖋|Learning ML 📌| Novel Lover 📚| Animal Lover 🐶 
 ## 🚀 About Me
 I'm a Data Science Enthusiast and in the processing of learning.
 Love Mathematics and problem solving. Want new challenge everyday!!🔥
