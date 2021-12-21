@@ -42,3 +42,24 @@ Currently in 2nd year
   ####  4. Its a Sin to Kill a Mocking Bird by 🕊
   ####  5. 101 Short Stories by O'Henry ⭐
   and more...
+  
+  ## 🧧 Certificates
+#### 🎯 Soft Skill and Personality Development [completed]
+#### 🎯 OOP Python [ongoing]
+#### 🎯 Introduction to R programing [yet to recieve certificate]
+#### 🎯 Introduction to Machine Learning [Yet to start]
+
+
+
+## Acknowledgements
+
+ - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
+ - [Awesome README](https://github.com/matiassingers/awesome-readme)
+ - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+
+
+## Authors 
+
+- [@NiviRocks](https://www.github.com/NiviRocks)
+
+
