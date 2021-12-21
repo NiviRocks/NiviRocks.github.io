@@ -15,14 +15,17 @@ LinkedIn account not active yet!
 # 📖 EDUCATION 
 ## B.Tech in Computer Science Engineering
 <img width="356" alt="msit logo" src="https://user-images.githubusercontent.com/96379756/146984366-a97d2415-8acd-42a2-8ccf-625090b161b0.png">
+
 #### 🎗Pursuing B.Tech in Computer Science Engineering from Meghand Saha Institute of Technology, Kolkata, West Bengal.
 #### 🎗Batch:-2020-2024
 Currently in 2nd year 
 ## B.Sc. In Data Science and Programming (Duel Degree)
 <img alt="iitm-logo" src="https://user-images.githubusercontent.com/96379756/146984436-13ba2603-6b8b-4c37-9659-c7b9857fa8ae.png">
+
 #### 🎗Currently enrolled in Foundation Level in B.Sc. In Data Science and Programming from IIT Madras.
 ## Schooling
 <img alt="kvs logo" src="https://user-images.githubusercontent.com/96379756/146983457-576dfcc0-c3b3-47b8-903f-20f445ca1ccf.jpg">
+
 #### 🎗Completed 10+2 level from Kendriya Vidyalaya No.1 Saltlake, Kolkata
 #### 🎗Scored 94.6 % in 12th boards.
 
@@ -40,6 +43,8 @@ Currently in 2nd year
     
 ## 🧧 Certificates
 #### 🎯 Soft Skill and Personality Development [completed]
+[Chack Certificate Here](https://user-images.githubusercontent.com/96379756/146985987-07274f19-ef15-4ca2-b9ea-d3c6e6c2d6d0.jpg)
+
 #### 🎯 OOP Python [ongoing]
 #### 🎯 Introduction to R programing [yet to recieve certificate]
 #### 🎯 Introduction to Machine Learning [Yet to start]
