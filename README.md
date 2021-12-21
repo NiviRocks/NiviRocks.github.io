@@ -14,7 +14,7 @@ Love Mathematics and problem solving. Want new challenge everyday!!🔥
 LinkedIn account not active yet!
 # 📖 EDUCATION 
 ## B.Tech in Computer Science Engineering
-![msit logo](https://user-images.githubusercontent.com/96379756/146983461-0b07b202-29bb-4582-885b-c3b77a6c6b70.png)
+<img scr="https://user-images.githubusercontent.com/96379756/146983461-0b07b202-29bb-4582-885b-c3b77a6c6b70.png" width="300" height="300">
 #### 🎗Pursuing B.Tech in Computer Science Engineering from Meghand Saha Institute of Technology, Kolkata, West Bengal.
 #### 🎗Batch:-2020-2024
 Currently in 2nd year 
