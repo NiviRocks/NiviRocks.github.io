@@ -32,6 +32,7 @@ Currently in 2nd year
 ## ⚽ Hobbies 
 ### 📚 Novel Reading
 🎀Some of my best reading experiences are from:
+
   ####  1. Harry Potter Series by J.K.Rowling 🧙‍♂️
   ####  2. Sherlock Holmes by Athur Conan Doyle 🤠  
   ####  3. Famous Five by Enid Blyton 🚲
@@ -43,13 +44,13 @@ Currently in 2nd year
     
 ## 🧧 Certificates
 #### 🎯 Soft Skill and Personality Development [completed]
-[Chack Certificate Here](https://user-images.githubusercontent.com/96379756/146985987-07274f19-ef15-4ca2-b9ea-d3c6e6c2d6d0.jpg)
+| [Chack Certificate Here](https://user-images.githubusercontent.com/96379756/146985987-07274f19-ef15-4ca2-b9ea-d3c6e6c2d6d0.jpg) |
 
 #### 🎯 OOP Python [ongoing]
 #### 🎯 Introduction to R programing [yet to recieve certificate]
 #### 🎯 Introduction to Machine Learning [Yet to start]
 #### 🎯 CODECHEF Certificates
-[Snack Down 21 Participation Certificate](https://github.com/NiviRocks/NiviRocks.github.io/files/7757697/SNACKDOWN.21.Participation.Certificate.pdf)
+| [Snack Down 21 Participation Certificate](https://github.com/NiviRocks/NiviRocks.github.io/files/7757697/SNACKDOWN.21.Participation.Certificate.pdf) |
 
 
 
