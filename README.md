@@ -1,8 +1,7 @@
 <html>
-<head>
-</head>
-    <h1 align ="center" >RESUME </h1>
-<body>
+    <body>
+<h1 align ="center" >RESUME </h1>
+
 
 <h3 align="center" >Aspiring Data Scientist 📈| Pursuing B.Tech. Computer Science Engineering 💻|Learning ML 📌| Novel Lover 📚| Animal Lover 🐶 </h3>
 
