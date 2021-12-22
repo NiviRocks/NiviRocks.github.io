@@ -84,5 +84,6 @@ Currently in 2nd year
 <h2>Authors</h2> 
 
 - [@NiviRocks](https://www.github.com/NiviRocks)
+- Licensed under [GNU General Public License v3](LISENCE)
     </body>
 </html>
