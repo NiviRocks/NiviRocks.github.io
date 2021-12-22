@@ -39,13 +39,16 @@ Currently in 2nd year
     🎗Scored 94.6 % in 12th boards.</p>
 
 <h2>🚧Skill Set </h2>
-| OOP Python 🐍 | R Programming [Learning] | Mathematics for Data Science ➕ | Statistics for Data Science 📊 [Learning]| RDBMS - MySQL ☑| HTML5 📟| 
+| OOP Python 🐍 | R Programming [Learning] | Mathematics for Data Science ➕ | Statistics for Data Science 📊 [Learning]| RDBMS - MySQL ☑| HTML5 📟| Visual Studio Code| Git| GitHub| 
 <br><br>
 <div align="center">
 <img width="50" height="50" alt="python" src="https://user-images.githubusercontent.com/96379756/147038109-5a4acce6-3b85-4eb9-b3b2-fdfb1f5fd81c.jpg">
 <img width="50" height="50" alt="r prog" src="https://user-images.githubusercontent.com/96379756/147038105-5900bfd8-4550-4c6c-8f44-b09b3aa00baf.jpg">
 <img src="https://user-images.githubusercontent.com/96379756/147041148-d043a3d9-1588-418a-85c3-4a3a2472e480.png" width="50" height="50" alt="mysql" >
 <img src="https://user-images.githubusercontent.com/96379756/147041217-54a4d425-78ea-41c2-9f6a-249b867814e7.jpg" width="50" height="50" alt="html5">
+<img alt="Visual Studio Code" width="50" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img  alt="Git" width="50" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img  alt="GitHub" width="50" height="50" src="https://user-images.githubusercontent.com/96379756/147045628-c81a32e6-121d-4fb1-b5c9-703a64425849.png" />
 </div>
 
 
