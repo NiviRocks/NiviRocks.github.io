@@ -3,8 +3,10 @@
 
 Aspiring Data Scientist 📈| Pursuing B.Tech. Computer Science Engineering 💻|Learning ML 📌| Novel Lover 📚| Animal Lover 🐶 
 
+<img width="900" height="200" alt="img" src="https://user-images.githubusercontent.com/96379756/147038698-e3c710d2-ea7f-4206-82f7-cae11d8b9b4b.jpg">
+
 ## 🚀 About Me
-I'm a Data Science Enthusiast and in the processing of learning.
+Hello there! Nice to have you here 💖. I'm a Data Science Enthusiast and in the processing of learning.
 Love Mathematics and problem solving. Want new challenge everyday!!🔥
 
 
@@ -30,7 +32,7 @@ Currently in 2nd year
 #### 🎗Scored 94.6 % in 12th boards.
 
 ## 🚧Skill Set 
-| OOP Python 🐍 | R Programming [Learning] | Mathematics for Data Science ➕ | Statistics for Data Science 📊 [Leraning]| 
+| OOP Python 🐍 | R Programming [Learning] | Mathematics for Data Science ➕ | Statistics for Data Science 📊 [Learning]| 
 <br><br>
 <img width="100" height="100" alt="python" src="https://user-images.githubusercontent.com/96379756/147038109-5a4acce6-3b85-4eb9-b3b2-fdfb1f5fd81c.jpg"> <img width="100" height="100" alt="r prog" src="https://user-images.githubusercontent.com/96379756/147038105-5900bfd8-4550-4c6c-8f44-b09b3aa00baf.jpg">
 
