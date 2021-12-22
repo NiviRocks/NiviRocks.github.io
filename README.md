@@ -29,17 +29,21 @@ Currently in 2nd year
 #### 🎗Completed 10+2 level from Kendriya Vidyalaya No.1 Saltlake, Kolkata
 #### 🎗Scored 94.6 % in 12th boards.
 
-## ⚽ Hobbies 
+## 🚧Skill Set 
+| OOP Python 🐍 | R Programming [Learning] | Mathematics for Data Science ➕ | Statistics for Data Science 📊 [Leraning]| 
+<br><br>
+<img width="100" height="100" alt="python" src="https://user-images.githubusercontent.com/96379756/147038109-5a4acce6-3b85-4eb9-b3b2-fdfb1f5fd81c.jpg"> <img width="100" height="100" alt="r prog" src="https://user-images.githubusercontent.com/96379756/147038105-5900bfd8-4550-4c6c-8f44-b09b3aa00baf.jpg">
+
+
+# ⚽ Hobbies 
 ### 📚 Novel Reading
-🎀Some of my best reading experiences are from:
+#### 🎀Some of my best reading experiences are from:
 
-  ####  1. Harry Potter Series by J.K.Rowling 🧙‍♂️
-  ####  2. Sherlock Holmes by Athur Conan Doyle 🤠  
-  ####  3. Famous Five by Enid Blyton 🚲
-  ####  4. To Kill a Mocking Bird by Harper Lee 🕊
-  ####  5. 101 Short Stories by O'Henry ⭐
-  and more...
-
+1. Harry Potter Series by J.K.Rowling 🧙‍♂️ <br>
+2. Sherlock Holmes by Athur Conan Doyle 🤠   <br>
+3. Famous Five by Enid Blyton 🚲 <br>
+4. To Kill a Mocking Bird by Harper Lee 🕊 <br>
+5. 101 Short Stories by O'Henry ⭐ <br>
 
     
 ## 🧧 Certificates
