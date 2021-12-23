@@ -74,7 +74,11 @@ Currently in 2nd year <br><hr>
 3. Famous Five by Enid Blyton 🚲 <br>
 4. To Kill a Mocking Bird by Harper Lee 🕊 <br>
 5. 101 Short Stories by O'Henry ⭐ <br>
-    </p><hr>
+    </p>
+<h3> 🎨Painting </h3>
+1. Pencil Sketch<br>
+2. Water Painting
+<hr>
     
 <h2> 🧧 Certificates </h2>
 <h3>🎯 Soft Skill and Personality Development [completed]</h3>
