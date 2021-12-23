@@ -20,19 +20,18 @@ Love Mathematics and problem solving.<br> Want new challenge everyday!!🔥
 LinkedIn account not active yet!
 <h2>📖 EDUCATION </h2>
 <img width="200" height="200" align="right" alt="msit logo" src="https://user-images.githubusercontent.com/96379756/146984366-a97d2415-8acd-42a2-8ccf-625090b161b0.png">
-<h3>B.Tech in Computer Science Engineering</h3>
+-<h3>B.Tech in Computer Science Engineering</h3>
 
 <p>
 🎗Pursuing B.Tech in Computer Science Engineering from Meghand Saha Institute of Technology, Kolkata, West Bengal.<br>
     🎗Batch:-2020-2024</p>
 Currently in 2nd year 
-<h3>B.Sc. In Data Science and Programming (Duel Degree)</h3>
+-<h3>B.Sc. In Data Science and Programming (Duel Degree)</h3>
 <img alt="iitm-logo" src="https://user-images.githubusercontent.com/96379756/146984436-13ba2603-6b8b-4c37-9659-c7b9857fa8ae.png">
 
 <p>🎗Currently enrolled in Foundation Level in B.Sc. In Data Science and Programming from IIT Madras.</p>
 <img alt="kvs logo" height="150" width="200" align="right" src="https://user-images.githubusercontent.com/96379756/146983457-576dfcc0-c3b3-47b8-903f-20f445ca1ccf.jpg">
-<h3>Schooling</h3>
-
+-<h3>Schooling</h3>
 
 <p>🎗Completed 10+2 level from Kendriya Vidyalaya No.1 Saltlake, Kolkata<br>
     🎗Scored 94.6 % in 12th boards.</p>
