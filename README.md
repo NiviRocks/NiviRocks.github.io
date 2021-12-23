@@ -76,13 +76,13 @@ Currently in 2nd year
 <h2> Acknowledgements </h2>
 
  - <a href="https://awesomeopensource.com/project/elangosundar/awesome-README-templates" > Awesome README Templates </a>
- - [Awesome README]<a href="https://github.com/matiassingers/awesome-readme">Awesome README</a>
+ - <a href="https://github.com/matiassingers/awesome-readme">Awesome README</a>
  - <a href="https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project" > How to write a Good readme</a>
 
 
 <h2>Authors</h2> 
 
-        - <a href="https://www.github.com/NiviRocks"> @NiviRocks </a>
+- <a href="https://www.github.com/NiviRocks"> @NiviRocks </a>
 - Licensed under [GNU General Public License v3](LICENSE)
     </body>
 </html>
