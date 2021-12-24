@@ -7,7 +7,7 @@
 <hr><hr>
 <img src="https://user-images.githubusercontent.com/96379756/147040238-e4f7f732-a2d0-4608-8a6b-9e684f1bbb43.gif" alt="hello" align="right" height="200" width="200">
 <h1>🚀 About Me</h1>
-Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
+Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <br>
 This is Nibedita Chakraborty ╰(*°▽°*)╯ You can call me Nivi 😉 <br> Nice to have you here 💖. <br>
 I'm a Data Science enthusiast, in the processing of learning.
 Love Mathematics and problem solving.<br> Want new challenge everyday!!🔥
