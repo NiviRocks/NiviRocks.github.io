@@ -85,17 +85,6 @@ Currently in 2nd year <br><hr>
 2. Water Painting
 <hr>
     
-<h2> 🧧 Certificates </h2>
-<h3>🎯 Soft Skill and Personality Development [completed]</h3>
-<a href="https://user-images.githubusercontent.com/96379756/146985987-07274f19-ef15-4ca2-b9ea-d3c6e6c2d6d0.jpg">Check Certificate Here</a>
-<h3>🎯 OOP Python [ongoing]</h3>
-<h3> 🎯 Introduction to R programing [yet to recieve certificate]</h3>
-<h3> 🎯 Introduction to Machine Learning [Yet to start]</h3>
-<h3> 🎯 CODECHEF Certificates</h3>
-<a href="https://github.com/NiviRocks/NiviRocks.github.io/files/7757697/SNACKDOWN.21.Participation.Certificate.pdf"> Snack Down 21 Participation Certificate </a><hr>
-
-
-
 <h2> Acknowledgements </h2><hr>
 
  - <a href="https://awesomeopensource.com/project/elangosundar/awesome-README-templates" > Awesome README Templates </a>
