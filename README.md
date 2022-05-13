@@ -1,18 +1,12 @@
 <html>
     <body>
 <h1 align ="center" >RESUME </h1>
-
 <hr><hr>
 <h3 align="center" >Aspiring Data Scientist 📈| Pursuing B.Tech. Computer Science Engineering 💻 | Learning ML 📌 | Novel Lover 📚 | Animal Lover 🐶 </h3>
 <hr><hr>
-<img src="https://user-images.githubusercontent.com/96379756/147040238-e4f7f732-a2d0-4608-8a6b-9e684f1bbb43.gif" alt="hello" align="right" height="200" width="200">
-<h1>🚀 About Me</h1>
-Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
-This is Nibedita Chakraborty ╰(*°▽°*)╯ You can call me Nivi 😉 <br> Nice to have you here 💖. <br>
-I'm a Data Science enthusiast, in the processing of learning.
-Love Mathematics and problem solving.<br> Want new challenge everyday!!🔥
-<br><hr>
 
+<img width="1400" height="500" alt="readme" src="https://user-images.githubusercontent.com/96379756/168277160-644b0e88-643b-4e52-8229-9be6e2b5accc.png">
+<hr><hr>
 <h2>🔗 Links</h2>
 <a href="https://github.com/NiviRocks">
 <img src="https://img.shields.io/badge/My_GitHub_Profile_Link-000?style=for-the-badge&logo=ko-fi&logoColor=white" height="50" width="170"></a><br>
@@ -97,6 +91,6 @@ Currently in 2nd year <br><hr>
 
 - <a href="https://www.github.com/NiviRocks"> @NiviRocks </a>
 - Licensed under [GNU General Public License v3](LICENSE)
-<hr>
+<hr><hr>
     </body>
 </html>
