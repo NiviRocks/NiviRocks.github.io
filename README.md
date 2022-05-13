@@ -24,7 +24,8 @@ LinkedIn account not active yet! <br><br>
 <a href="https://www.codechef.com/users/nibedita_chk">
 <img src="https://user-images.githubusercontent.com/96379756/147282297-4719be39-9860-4916-a92a-b20b5c44991f.png" height="60" width="150"></a><br>
 <hr><hr>
-<h2>📖 EDUCATION </h2>
+<details><summary>
+<h2>📖 EDUCATION </h2></summary>
 <hr>
 <img width="200" height="200" align="right" alt="msit logo" src="https://user-images.githubusercontent.com/96379756/146984366-a97d2415-8acd-42a2-8ccf-625090b161b0.png">
 <h3>B.Tech in Computer Science Engineering</h3>
@@ -42,9 +43,9 @@ Currently in 2nd year <br><hr>
 <h3>Schooling</h3>
 
 <p>🎗Completed 10+2 level from Kendriya Vidyalaya No.1 Saltlake, Kolkata<br>
-    🎗Scored 94.6 % in 12th boards.</p>
+    🎗Scored 94.6 % in 12th boards.</p></details>
 <hr>
-<h2>🚧Skill Set </h2>
+<details><summary><h2>🚧Skill Set </h2></summary>
 <table>
     <tr>
         <td>OOP Python  </td>
@@ -68,9 +69,9 @@ Currently in 2nd year <br><hr>
         <td>GitHub </td>
         <td><img  align="center" alt="GitHub" width="50" height="50" src="https://user-images.githubusercontent.com/96379756/147045628-c81a32e6-121d-4fb1-b5c9-703a64425849.png" /></td>
     </tr>
- </table>
+ </table></details>
 <hr>
-<h2>⚽ Hobbies </h2>
+<details><summary><h2>⚽ Hobbies </h2></summary>
 <h3> 📚 Novel Reading </h3>
 <h4>🎀Some of my best reading experiences are from:</h4><br>
 <p>
@@ -83,7 +84,7 @@ Currently in 2nd year <br><hr>
 <h3> 🎨Painting </h3>
 1. Pencil Sketch<br>
 2. Water Painting
-<hr>
+</details><hr>
     
 <h2> Acknowledgements </h2><hr>
 
