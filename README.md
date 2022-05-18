@@ -9,15 +9,19 @@
 <img alt="GitHub" src="https://img.shields.io/github/license/NiviRocks/NiviRocks.github.io?color=ed367a&logo=Github&logoColor=%23fbd3e2">
 
 <hr>
-<h2>🔗 Links</h2>
+<h2>🔗 Links to Check Out </h2>
 <a href="https://github.com/NiviRocks">
-<img src="https://img.shields.io/badge/My_GitHub_Profile_Link-000?style=for-the-badge&logo=ko-fi&logoColor=white" height="50" width="100"></a>
+<img src="https://github.com/NiviRocks/NiviRocks.github.io/blob/main/GitHub%20uploading/NiviRocks%20Readme%20images/github%20image.png" height="30" width="100"></a>
+&nbsp;
 <a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="50" width="100"></a>
+<img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30" width="100"></a>
+&nbsp;
 <a href="https://leetcode.com/Nibedita_Chakraborty/">
-<img src="https://user-images.githubusercontent.com/96379756/147282294-bbf07a45-353d-436b-9364-38af841647d7.png" height="50" width="100"></a>
+<img src="https://user-images.githubusercontent.com/96379756/147282294-bbf07a45-353d-436b-9364-38af841647d7.png" height="30" width="100"></a>
+&nbsp;
 <a href="https://www.codechef.com/users/nibedita_chk">
-<img src="https://user-images.githubusercontent.com/96379756/147282297-4719be39-9860-4916-a92a-b20b5c44991f.png" height="50" width="100"></a>
+<img src="https://github.com/NiviRocks/NiviRocks.github.io/blob/main/GitHub%20uploading/NiviRocks%20Readme%20images/code%20chef%20image.jpg" height="30" width="100"></a>
+&nbsp;
 <hr><hr>
 <details><summary>
 <h2>📖 EDUCATION </h2></summary>
