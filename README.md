@@ -5,10 +5,10 @@
 <h3 align="center" >Aspiring Data Scientist 📈| Pursuing B.Tech. Computer Science Engineering 💻 | Learning ML 📌 | Novel Lover 📚 | Animal Lover 🐶 </h3>
 <hr><hr>
 
-<img width="1400" height="500" alt="readme" src="https://user-images.githubusercontent.com/96379756/168277160-644b0e88-643b-4e52-8229-9be6e2b5accc.png">
+<img width="1200" height="450" alt="readme" src= "https://github.com/NiviRocks/NiviRocks.github.io/blob/main/GitHub%20uploading/NiviRocks%20Readme%20images/readme.png"><hr>
 <img alt="GitHub" src="https://img.shields.io/github/license/NiviRocks/NiviRocks.github.io?color=ed367a&logo=Github&logoColor=%23fbd3e2">
 
-<hr><hr>
+<hr>
 <h2>🔗 Links</h2>
 <a href="https://github.com/NiviRocks">
 <img src="https://img.shields.io/badge/My_GitHub_Profile_Link-000?style=for-the-badge&logo=ko-fi&logoColor=white" height="50" width="100"></a>
