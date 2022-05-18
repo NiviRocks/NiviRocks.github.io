@@ -22,7 +22,10 @@
 <a href="https://www.codechef.com/users/nibedita_chk">
 <img src="https://github.com/NiviRocks/NiviRocks.github.io/blob/main/GitHub%20uploading/NiviRocks%20Readme%20images/code%20chef%20image.jpg" height="30" width="100"></a>
 &nbsp;
-<hr><hr>
+<hr>  
+<h2> 🏆 Trophies </h2>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NiviRocks" alt="NiviRocks" /></a> </p>        
+<hr>
 <details><summary>
 <h2>📖 EDUCATION </h2></summary>
 <hr>
