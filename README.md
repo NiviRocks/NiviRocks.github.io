@@ -25,29 +25,8 @@
 <hr>  
 <h2> 🏆 Trophies </h2>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NiviRocks" alt="NiviRocks" /></a> </p>        
-<hr>
-<details><summary>
-<h2>📖 EDUCATION </h2></summary>
-<hr>
-<img width="200" height="200" align="right" alt="msit logo" src="https://user-images.githubusercontent.com/96379756/146984366-a97d2415-8acd-42a2-8ccf-625090b161b0.png">
-<h3>B.Tech in Computer Science Engineering</h3>
-
-<p>
-🎗Pursuing B.Tech in Computer Science Engineering from Meghand Saha Institute of Technology, Kolkata, West Bengal.<br>
-    🎗Batch:-2020-2024</p>
-Currently in 2nd year <br><hr>
-<h3>B.Sc. In Data Science and Programming (Duel Degree)</h3>
-<img alt="iitm-logo" src="https://user-images.githubusercontent.com/96379756/146984436-13ba2603-6b8b-4c37-9659-c7b9857fa8ae.png">
-
-<p>🎗Currently enrolled in Foundation Level in B.Sc. In Data Science and Programming from IIT Madras.</p>
-<hr><br>
-<img alt="kvs logo" height="150" width="200" align="right" src="https://user-images.githubusercontent.com/96379756/146983457-576dfcc0-c3b3-47b8-903f-20f445ca1ccf.jpg">
-<h3>Schooling</h3>
-
-<p>🎗Completed 10+2 level from Kendriya Vidyalaya No.1 Saltlake, Kolkata<br>
-    🎗Scored 94.6 % in 12th boards.</p></details>
-<hr>
-<details><summary><h2>🚧Skill Set </h2></summary>
+<hr>  
+<h2>🚧Skill Set </h2>
 <table>
     <tr>
         <td>OOP Python  </td>
@@ -70,8 +49,31 @@ Currently in 2nd year <br><hr>
     <tr>
         <td>GitHub </td>
         <td><img  align="center" alt="GitHub" width="50" height="50" src="https://user-images.githubusercontent.com/96379756/147045628-c81a32e6-121d-4fb1-b5c9-703a64425849.png" /></td>
+        <td>C Programming </td>
+        <td><img align="center" alt="C" width="50 height="50" src="https://github.com/NiviRocks/NiviRocks.github.io/blob/main/GitHub%20uploading/NiviRocks%20Readme%20images/c%20image.png" /> </td>
     </tr>
- </table></details>
+ </table>
+<hr>
+<details><summary>
+<h2>📖 EDUCATION </h2></summary>
+<hr>
+<img width="200" height="200" align="right" alt="msit logo" src="https://user-images.githubusercontent.com/96379756/146984366-a97d2415-8acd-42a2-8ccf-625090b161b0.png">
+<h3>B.Tech in Computer Science Engineering</h3>
+
+<p>
+🎗Pursuing B.Tech in Computer Science Engineering from Meghand Saha Institute of Technology, Kolkata, West Bengal.<br>
+    🎗Batch:-2020-2024</p>
+Currently in 2nd year <br><hr>
+<h3>B.Sc. In Data Science and Programming (Duel Degree)</h3>
+<img alt="iitm-logo" src="https://user-images.githubusercontent.com/96379756/146984436-13ba2603-6b8b-4c37-9659-c7b9857fa8ae.png">
+
+<p>🎗Currently enrolled in Foundation Level in B.Sc. In Data Science and Programming from IIT Madras.</p>
+<hr><br>
+<img alt="kvs logo" height="150" width="200" align="right" src="https://user-images.githubusercontent.com/96379756/146983457-576dfcc0-c3b3-47b8-903f-20f445ca1ccf.jpg">
+<h3>Schooling</h3>
+
+<p>🎗Completed 10+2 level from Kendriya Vidyalaya No.1 Saltlake, Kolkata<br>
+    🎗Scored 94.6 % in 12th boards.</p></details>
 <hr>
 <details><summary><h2>⚽ Hobbies </h2></summary>
 <h3> 📚 Novel Reading </h3>
