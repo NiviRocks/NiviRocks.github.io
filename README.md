@@ -6,6 +6,8 @@
 <hr><hr>
 
 <img width="1400" height="500" alt="readme" src="https://user-images.githubusercontent.com/96379756/168277160-644b0e88-643b-4e52-8229-9be6e2b5accc.png">
+<img alt="GitHub" src="https://img.shields.io/github/license/NiviRocks/NiviRocks.github.io?color=ed367a&logo=Github&logoColor=%23fbd3e2">
+
 <hr><hr>
 <h2>🔗 Links</h2>
 <a href="https://github.com/NiviRocks">
