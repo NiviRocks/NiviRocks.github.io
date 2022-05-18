@@ -11,14 +11,13 @@
 <hr><hr>
 <h2>🔗 Links</h2>
 <a href="https://github.com/NiviRocks">
-<img src="https://img.shields.io/badge/My_GitHub_Profile_Link-000?style=for-the-badge&logo=ko-fi&logoColor=white" height="50" width="170"></a><br>
+<img src="https://img.shields.io/badge/My_GitHub_Profile_Link-000?style=for-the-badge&logo=ko-fi&logoColor=white" height="50" width="100"></a>
 <a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="40" width="100"></a><br>
-LinkedIn account not active yet! <br><br>
+<img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="50" width="100"></a>
 <a href="https://leetcode.com/Nibedita_Chakraborty/">
-<img src="https://user-images.githubusercontent.com/96379756/147282294-bbf07a45-353d-436b-9364-38af841647d7.png" height="40" width="150"></a><br><br>
+<img src="https://user-images.githubusercontent.com/96379756/147282294-bbf07a45-353d-436b-9364-38af841647d7.png" height="50" width="100"></a>
 <a href="https://www.codechef.com/users/nibedita_chk">
-<img src="https://user-images.githubusercontent.com/96379756/147282297-4719be39-9860-4916-a92a-b20b5c44991f.png" height="60" width="150"></a><br>
+<img src="https://user-images.githubusercontent.com/96379756/147282297-4719be39-9860-4916-a92a-b20b5c44991f.png" height="50" width="100"></a>
 <hr><hr>
 <details><summary>
 <h2>📖 EDUCATION </h2></summary>
