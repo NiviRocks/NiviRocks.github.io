@@ -5,13 +5,13 @@
 <h3 align="center" >Aspiring Data Scientist 📈| Pursuing B.Tech. Computer Science Engineering 💻 | Learning ML 📌 | Novel Lover 📚 | Animal Lover 🐶 </h3>
 <hr><hr>
 
-<img width="1200" height="450" alt="readme" src= "https://github.com/NiviRocks/NiviRocks.github.io/blob/main/GitHub%20uploading/NiviRocks%20Readme%20images/readme.png"><hr>
+<img width="1200" height="450" alt="readme" src= "https://github.com/NiviRocks/NiviRocks.github.io/blob/main/GitHub%20uploading/readme.png"><hr>
 <img alt="GitHub" src="https://img.shields.io/github/license/NiviRocks/NiviRocks.github.io?color=ed367a&logo=Github&logoColor=%23fbd3e2">
 
 <hr>
 <h2>🔗 Links to Check Out </h2>
 <a href="https://github.com/NiviRocks">
-<img src="https://github.com/NiviRocks/NiviRocks.github.io/blob/main/GitHub%20uploading/NiviRocks%20Readme%20images/github%20image.png" height="30" width="100"></a>
+<img src="https://github.com/NiviRocks/NiviRocks.github.io/blob/main/GitHub%20uploading/github%20image.png" height="30" width="100"></a>
 &nbsp;
 <a href="https://www.linkedin.com/">
 <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30" width="100"></a>
@@ -20,7 +20,7 @@
 <img src="https://user-images.githubusercontent.com/96379756/147282294-bbf07a45-353d-436b-9364-38af841647d7.png" height="30" width="100"></a>
 &nbsp;
 <a href="https://www.codechef.com/users/nibedita_chk">
-<img src="https://github.com/NiviRocks/NiviRocks.github.io/blob/main/GitHub%20uploading/NiviRocks%20Readme%20images/code%20chef%20image.jpg" height="30" width="100"></a>
+<img src="https://github.com/NiviRocks/NiviRocks.github.io/blob/main/GitHub%20uploading/code%20chef%20image.jpg" height="30" width="100"></a>
 &nbsp;
 <hr>  
 <h2> 🏆 Trophies </h2>
