@@ -1,5 +1,5 @@
 <html>
-    <body>
+    <body >
 <h1 align ="center" >RESUME </h1>
 <hr><hr>
 <h3 align="center" >Aspiring Data Scientist 📈| Pursuing B.Tech. Computer Science Engineering 💻 | Learning ML 📌 | Novel Lover 📚 | Animal Lover 🐶 </h3>
@@ -9,18 +9,16 @@
 <img alt="GitHub" src="https://img.shields.io/github/license/NiviRocks/NiviRocks.github.io?color=ed367a&logo=Github&logoColor=%23fbd3e2">
 <hr>
 <h2>🔗 Links to Check Out </h2>
-<a href="https://github.com/NiviRocks">
-<img src="https://user-images.githubusercontent.com/96379756/169337870-ee4488d5-dfd8-47ca-8d10-be7ff50b6d1a.png" height="30" width="100"></a>
+<div aling="center">
+<a href="https://github.com/NiviRocks"><img src="https://user-images.githubusercontent.com/96379756/169337870-ee4488d5-dfd8-47ca-8d10-be7ff50b6d1a.png" height="30" width="10%"></a>
 &nbsp;
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30" width="100"></a>
+<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30" width="10%"></a>
 &nbsp;
-<a href="https://leetcode.com/Nibedita_Chakraborty/">
-<img src="https://user-images.githubusercontent.com/96379756/147282294-bbf07a45-353d-436b-9364-38af841647d7.png" height="30" width="100"></a>
+<a href="https://leetcode.com/Nibedita_Chakraborty/"><img src="https://user-images.githubusercontent.com/96379756/147282294-bbf07a45-353d-436b-9364-38af841647d7.png" height="30" width="10%"></a>
 &nbsp;
-<a href="https://www.codechef.com/users/nibedita_chk">
-<img src="https://user-images.githubusercontent.com/96379756/169338377-223ffa25-4eb9-48fb-a135-033c0740587d.jpg" height="30" width="100"></a>
-&nbsp; <hr> 
+<a href="https://www.codechef.com/users/nibedita_chk"><img src="https://user-images.githubusercontent.com/96379756/169338377-223ffa25-4eb9-48fb-a135-033c0740587d.jpg" height="30" width="10%"></a>
+&nbsp; </div><hr> 
+        
 <div align="center">
 <img width="50%" src="https://github-readme-stats.vercel.app/api?username=NiviRocks&theme=jolly&show_icons=true&count_private=true&bg_color=3b0519&icon_color=fef7f9" height="180"" /> &nbsp;
  <img width="45%" src="http://github-readme-streak-stats.herokuapp.com?user=NiviRocks&theme=dark&date_format=j%20M%5B%20Y%5D&ring=FE0C65&currStreakLabel=F0558E&background=3B0519" />
