@@ -20,7 +20,9 @@
 &nbsp;
 <a href="https://www.codechef.com/users/nibedita_chk">
 <img src="https://user-images.githubusercontent.com/96379756/169338377-223ffa25-4eb9-48fb-a135-033c0740587d.jpg" height="30" width="100"></a>
-&nbsp; <hr>  
+&nbsp; <hr> 
+<img src="https://github-readme-stats.vercel.app/api?username=NiviRocks&theme=jolly&show_icons=true&count_private=true&bg_color=3b0519&icon_color=fef7f9" > <hr>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&&langs_count=8&layout=compact&bg_color=3b0519&theme=jolly" width="450" ><hr>
 <h2> 🏆 Trophies </h2>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NiviRocks" alt="NiviRocks" /></a> </p>        
 <hr>  
