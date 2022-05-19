@@ -21,12 +21,16 @@
 <a href="https://www.codechef.com/users/nibedita_chk">
 <img src="https://user-images.githubusercontent.com/96379756/169338377-223ffa25-4eb9-48fb-a135-033c0740587d.jpg" height="30" width="100"></a>
 &nbsp; <hr> 
-<img src="https://github-readme-stats.vercel.app/api?username=NiviRocks&theme=jolly&show_icons=true&count_private=true&bg_color=3b0519&icon_color=fef7f9"> <hr>
-<img src="http://github-readme-streak-stats.herokuapp.com?user=NiviRocks&theme=dark&date_format=j%20M%5B%20Y%5D&ring=FE0C65&currStreakLabel=F0558E&background=3B0519" ><hr>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&&langs_count=8&layout=compact&bg_color=3b0519&theme=jolly" width="450" ><hr>
+<div align="center">
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=NiviRocks&theme=jolly&show_icons=true&count_private=true&bg_color=3b0519&icon_color=fef7f9" height="180"" /> &nbsp;
+ <img width="45%" src="http://github-readme-streak-stats.herokuapp.com?user=NiviRocks&theme=dark&date_format=j%20M%5B%20Y%5D&ring=FE0C65&currStreakLabel=F0558E&background=3B0519" />
+</div> <hr> 
 <h2> 🏆 Trophies </h2>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NiviRocks" alt="NiviRocks" /></a> </p><hr>
-<img src="https://activity-graph.herokuapp.com/graph?username=NiviRocks&theme=dracula&bg_color=3b0519" height="250" weight="250"><hr>  
+<div align="center">
+<img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&&langs_count=8&layout=compact&bg_color=3b0519&theme=jolly" /> &nbsp;
+ <img width="60%" src="https://activity-graph.herokuapp.com/graph?username=NiviRocks&theme=dracula&bg_color=3b0519" alt="ayushkumar731" />
+</div> <hr>
 <h2>🚧Skill Set </h2>
 <table>
     <tr>
