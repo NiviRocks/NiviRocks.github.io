@@ -5,13 +5,12 @@
 <h3 align="center" >Aspiring Data Scientist 📈| Pursuing B.Tech. Computer Science Engineering 💻 | Learning ML 📌 | Novel Lover 📚 | Animal Lover 🐶 </h3>
 <hr><hr>
 
-<img width="1200" height="450" alt="readme" src= "https://github.com/NiviRocks/NiviRocks.github.io/blob/main/GitHub%20uploading/readme.png"><hr>
+<img width="1200" height="450" alt="readme" src= "https://user-images.githubusercontent.com/96379756/169338049-1df813ba-e68c-46c6-b93f-440d69f2ea8f.png"><hr>
 <img alt="GitHub" src="https://img.shields.io/github/license/NiviRocks/NiviRocks.github.io?color=ed367a&logo=Github&logoColor=%23fbd3e2">
-
 <hr>
 <h2>🔗 Links to Check Out </h2>
 <a href="https://github.com/NiviRocks">
-<img src="https://github.com/NiviRocks/NiviRocks.github.io/blob/main/GitHub%20uploading/github%20image.png" height="30" width="100"></a>
+<img src="https://user-images.githubusercontent.com/96379756/169337870-ee4488d5-dfd8-47ca-8d10-be7ff50b6d1a.png" height="30" width="100"></a>
 &nbsp;
 <a href="https://www.linkedin.com/">
 <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30" width="100"></a>
@@ -20,9 +19,8 @@
 <img src="https://user-images.githubusercontent.com/96379756/147282294-bbf07a45-353d-436b-9364-38af841647d7.png" height="30" width="100"></a>
 &nbsp;
 <a href="https://www.codechef.com/users/nibedita_chk">
-<img src="https://github.com/NiviRocks/NiviRocks.github.io/blob/main/GitHub%20uploading/code%20chef%20image.jpg" height="30" width="100"></a>
-&nbsp;
-<hr>  
+<img src="https://user-images.githubusercontent.com/96379756/169338377-223ffa25-4eb9-48fb-a135-033c0740587d.jpg" height="30" width="100"></a>
+&nbsp; <hr>  
 <h2> 🏆 Trophies </h2>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NiviRocks" alt="NiviRocks" /></a> </p>        
 <hr>  
@@ -50,7 +48,7 @@
         <td>GitHub </td>
         <td><img  align="center" alt="GitHub" width="50" height="50" src="https://user-images.githubusercontent.com/96379756/147045628-c81a32e6-121d-4fb1-b5c9-703a64425849.png" /></td>
         <td>C Programming </td>
-        <td><img align="center" alt="C" width="50 height="50" src="https://github.com/NiviRocks/NiviRocks.github.io/blob/main/GitHub%20uploading/NiviRocks%20Readme%20images/c%20image.png" /> </td>
+        <td><img align="center" alt="C" width="50 height="50" src="https://user-images.githubusercontent.com/96379756/169338552-64ed131c-cda6-4b20-bb26-f69882aa92e2.png" /> </td>
     </tr>
  </table>
 <hr>
