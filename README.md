@@ -2,7 +2,7 @@
   <head>
     <style>
       body{
-        background-image: url('http://i.stack.imgur.com/kx8MT.gif');
+        background-image: url('https://github.com/NiviRocks/NiviRocks.github.io/blob/main/upload/bubble.gif');
         background-size: cover;
 
 
