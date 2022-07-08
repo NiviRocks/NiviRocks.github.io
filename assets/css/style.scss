@@ -2,3 +2,14 @@
 ---
 
 @import "{{ site.theme }}";
+
+body {
+  back
+  padding: 0;
+  margin: 0;
+  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #20b9b9;
+  background-color: url('https://github.com/NiviRocks/NiviRocks.github.io/blob/main/upload/bubble.gif');
+}
