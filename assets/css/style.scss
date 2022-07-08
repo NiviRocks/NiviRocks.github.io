@@ -9,6 +9,22 @@ body {
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 16px;
   line-height: 1.5;
-  color: #20b9b9;
+  color: black;
   background-image: linear-gradient(to right, #007760 , #c5fcff);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  font-weight: normal;
+  color: black;
+}
+
+p {
+  color: rgba(0,0,0,0.7)
 }
