@@ -30,6 +30,7 @@ These weights determine the importance of any given variable, with larger ones c
 
 The output is passed through an ***activation function***. If that output exceeds a given threshold, it “fires” (or activates) the node, passing data to the next layer in the network. This results in the output of one node becoming the input of the next node. This process of passing data from one layer to the next layer defines this neural network as a ***feedforward network***.
 
+[Go to Home Page](https://nivirocks.github.io/)
 
 ### References:
 - [What are Neural Networks? by IBM Cloud Learn Hub](https://www.ibm.com/in-en/cloud/learn/neural-networks)
