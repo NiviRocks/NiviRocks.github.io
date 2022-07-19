@@ -1,4 +1,8 @@
-# Artificial Neural Network
+---
+layout: default
+title: Artificial Neural Network
+description: Short Note for Easy Understanding of Artificial Neural Network.
+---
 
 ANN is a computation model that mimics the human brain and is composed of an ***input layer, one or more hidden layers, and an output layer***. 
 The input layer accepts ***input information***, the hidden layer ***performs calculations to find features and patterns*** and the output layer ***displays the output***. 
