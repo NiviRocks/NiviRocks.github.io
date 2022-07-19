@@ -6,3 +6,5 @@ Below are some common and most discussed topics on Machine Learning, Deep Learni
 Along with diagramatic representation for better understanding.
 ## Hope you enjoy the Journey 😉
 
+### Topics Links
+1. [Artificial Neural Network](https://github.com/NiviRocks/NiviRocks.github.io/blob/main/Artificial%20Neural%20Network.md)
