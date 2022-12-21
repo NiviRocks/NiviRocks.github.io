@@ -1,7 +1,6 @@
 theme: jekyll-theme-cayman
-title: Learn Machine Learning and lot more Simply!  
-description: Most people have difficulties when understanding basic concepts of Machine Learning and Neural Networks. Here with me you can find simple explainations for so called tough topics.
-remote_theme: pages-themes/cayman@v0.2.0
+title: Welcome to My Journey to the Digital World!
+description: Imagination is more important han knowledge. Knowledge is limited. Imagination encircles the world. ~Albert Einstein
 plugins: 
 - jekyll-remote-theme
 show_downloads: True
