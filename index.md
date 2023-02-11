@@ -1,6 +1,9 @@
-# Hello there! This is Nibedita Chakraborty 😎
-|Bachelors in Computer Science Engineering| Learning ML| Data Science Enthusiast|
+# About Me 
+I'm Nibedita Chakraborty, a third-year Computer Science Engineering student at the Meghnad Saha Institute of Technology, MAKAUT in Kolkata. In addition, I am a second-year student at IIT, Madras pursuing B.S. Data Science and Programming as a dual enrolment course.
+I like to explore many fields of work in order to expand my knowledge and expertise and be further prepared to engage in major industry choices.
 
-## Nice to have you Aboard 🙌
-## Hope you enjoy my Journey 😉
+# My Area of Interest 
+Airtificial Intelligence, Machine Learning, Data Science, Computer Vision & Image Processing
+
+
 
