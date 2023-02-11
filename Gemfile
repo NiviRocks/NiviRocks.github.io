@@ -1,2 +1,2 @@
-#gem "github-pages", group: :jekyll_plugins
-gem 'jekyll-coffeescript'
+gem "github-pages", group: :jekyll_plugins
+#gem 'jekyll-coffeescript'
