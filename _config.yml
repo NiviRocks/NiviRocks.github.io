@@ -2,7 +2,6 @@ theme: jekyll-theme-cayman
 title: Nibedita Chakraborty
 description: B.Tech. Computer Science | 2020-2024 | MSIT, MAKAUT, Kolkata <br> B.S. Data Science and Programming | IIT, Madras | October 2020 - 2025 | Dual Degree
 plugins:
-  - jekyll-coffeescript
-#plugins: 
-#- jekyll-remote-theme
+  #- jekyll-coffeescript 
+  - jekyll-remote-theme
 show_downloads: True
