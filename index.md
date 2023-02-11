@@ -6,13 +6,13 @@ I like to explore many fields of work in order to expand my knowledge and expert
 Airtificial Intelligence, Machine Learning, Data Science, Computer Vision & Image Processing
 
 # Education 
-- _*BTech, Computer Science*_ <br>
+- *BTech, Computer Science* <br>
 Meghnad Saha Institute Of Technology(MSIT) | (2020 - 2024)
 
-- _*Indian Institute of Technology, Madras*_ <br>
+- *Indian Institute of Technology, Madras* <br>
 BS, Data Science and Programming  | (October 2020 - April 2026)
 
-- _*Higher Secondary*_ <br>
+- *Higher Secondary* <br>
 Mathematics and Computer Science | Kendriya vidyalaya
 
 
